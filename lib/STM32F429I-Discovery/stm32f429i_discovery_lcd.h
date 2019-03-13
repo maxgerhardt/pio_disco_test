@@ -48,7 +48,7 @@
 #include "stm32f429i_discovery_sdram.h"
 #include "../../../Utilities/Fonts/fonts.h"
 /* Include LCD component driver */
-#include <Components/ili9341/ili9341.h>
+#include <../ili9341/ili9341.h>
 
 /** @addtogroup BSP
   * @{
